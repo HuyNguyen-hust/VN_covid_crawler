@@ -1,0 +1,6 @@
+re
+bs4
+pandas
+matplotlib
+selenium
+requests
