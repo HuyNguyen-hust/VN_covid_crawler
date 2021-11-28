@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 # Crawling Data
 I have implemented 2 crawlers   
-The first crawler crawls data on Vietnam in the last month
+The first crawler crawls data in Vietnam in the last month
 ```
 python crawl_by_time.py
 ```
